@@ -7,7 +7,7 @@ I’m a passionate web developer with a strong foundation in programming languag
 <br></br>
 💪 I’m open to collaborating on new projects, especially in web design, app development, or anything that involves solving interesting challenges.
 <br></br>
-🌊 Outside tech, I love being outdoors, the sun 🌞, the beach 🌊 and having a drink 🍸
+🌊 Outside tech, I love being outdoors, the sun, the beach and having a drink.
 <br></br>
 💌 Contact me at: <a href="grossocrln@gmail.com">grossocrln@gmail.com</a>
 <br></br>
