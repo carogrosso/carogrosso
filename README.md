@@ -1,4 +1,4 @@
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1>Guess who loves coding and coffee? Yep, it’s me! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" width=300px alt="" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhsaDF1ZGN1eWc0dmFzMDF5MzNocHd0d2NhcDBhZzZrcnlnc3QxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xCJ6CBmBLIm7DZ3jL7/giphy.webp" />
 
 I’m a passionate web developer with a strong foundation in programming languages like <strong>JavaScript, HTML, CSS, and TypeScript</strong>. I enjoy creating innovative and functional projects, combining technical skills with creative problem-solving. Currently, I’m honing my skills in <strong>UI/UX</strong> design using <strong>Figma</strong>.
