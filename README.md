@@ -3,7 +3,7 @@
 
 I’m a passionate web developer with a strong foundation in programming languages like <strong>JavaScript, HTML, CSS, and TypeScript</strong>. I enjoy creating innovative and functional projects, combining technical skills with creative problem-solving. Currently, I’m honing my skills in <strong>UI/UX</strong> design using <strong>Figma</strong>.
 
-🧠 I’m currently learning <strong>Astro and Next.js</strong>
+🧠 I’m currently learning <strong>Next.js</strong>
 <br></br>
 💪 I’m open to collaborating on new projects, especially in web design, app development, or anything that involves solving interesting challenges.
 <br></br>
@@ -27,6 +27,7 @@ I’m a passionate web developer with a strong foundation in programming languag
   <img src= "https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src= "https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src= "https://img.shields.io/badge/astro-%411786a.svg?style=for-the-badge&logo=astro&logoColor=yellow">
 
 <h4> Databases / Hosting</h4>
 <span>
